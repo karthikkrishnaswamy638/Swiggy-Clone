@@ -21,7 +21,7 @@ Just fork it and you are good to go.
 
 - Github: [@karthik](https://github.com/karthikkrishnaswamy638)
 - Linkedin: [Karthik krishnaswamy](https://www.linkedin.com/in/karthik-krishnaswamy-0b9a21202/)
-- Email: (karthikkrishnaswamy638@gmail.com@gmail.com)
+- Email: (karthikkrishnaswamy638@gmail.com)
 
 ## 🤝 Contributing
 
